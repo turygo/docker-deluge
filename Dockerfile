@@ -27,6 +27,8 @@ RUN \
 	deluged \
 	deluge-console \
 	deluge-web \
+	python3-six \
+	python3-pip \
 	python3-future \
 	python3-requests \
 	p7zip-full \
